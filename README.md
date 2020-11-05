@@ -5,7 +5,7 @@
 ## Contents
 
 - [Simulators](#simulators)
-- [Tools] (#tools)
+- [Tools](#tools)
 
 ## Simulators
 - [UnetStack](https://unetstack.net/) - Underwater Networks Simulator
